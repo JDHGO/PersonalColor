@@ -223,7 +223,7 @@ frontend
  
    - 정확한 진단과 정보 수집을 위한 성별 선택
    
-   <img src="./emb_jpg/2_성별 선택.jpg" width="400" height="250"/>
+   <img src="./emb_jpg/2_성별선택.jpg" width="400" height="250"/>
    
    
     
