@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1020</width>
+    <height>680</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="endbtn2">
+   <property name="geometry">
+    <rect>
+     <x>4</x>
+     <y>3</y>
+     <width>1020</width>
+     <height>680</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image:url(./crst.jpg);border:0px;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="bomber">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>70</y>
+     <width>191</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image:url(./bomber_btn.jpg);border:0px;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>260</y>
+     <width>201</width>
+     <height>181</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image:url(./light_btn.jpg);border:0px;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>409</x>
+     <y>440</y>
+     <width>201</width>
+     <height>191</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image:url(./brown_btn.jpg);border:0px;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>70</y>
+     <width>191</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image:url(./standard_btn.jpg);border:0px;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>260</y>
+     <width>191</width>
+     <height>161</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image:url(./oxpord_btn.jpg);border:0px;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_5">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>460</y>
+     <width>191</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image:url(./basic_btn.jpg);border:0px;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>endbtn2</sender>
+   <signal>clicked()</signal>
+   <receiver>Form</receiver>
+   <slot>rst()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>904</x>
+     <y>298</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>1083</x>
+     <y>286</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>bomber</sender>
+   <signal>clicked()</signal>
+   <receiver>Form</receiver>
+   <slot>bomber_btn()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>487</x>
+     <y>139</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>1060</x>
+     <y>163</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton</sender>
+   <signal>clicked()</signal>
+   <receiver>Form</receiver>
+   <slot>light_btn()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>541</x>
+     <y>365</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>-152</x>
+     <y>366</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_2</sender>
+   <signal>clicked()</signal>
+   <receiver>Form</receiver>
+   <slot>brown_btn()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>504</x>
+     <y>587</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>1061</x>
+     <y>498</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_3</sender>
+   <signal>clicked()</signal>
+   <receiver>Form</receiver>
+   <slot>standard_btn()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>336</x>
+     <y>150</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>1071</x>
+     <y>206</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_4</sender>
+   <signal>clicked()</signal>
+   <receiver>Form</receiver>
+   <slot>oxpord_btn()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>305</x>
+     <y>358</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>1096</x>
+     <y>338</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_5</sender>
+   <signal>clicked()</signal>
+   <receiver>Form</receiver>
+   <slot>basic_btn()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>334</x>
+     <y>504</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>1059</x>
+     <y>406</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>rst()</slot>
+  <slot>bomber_btn()</slot>
+  <slot>light_btn()</slot>
+  <slot>brown_btn()</slot>
+  <slot>standard_btn()</slot>
+  <slot>oxpord_btn()</slot>
+  <slot>basic_btn()</slot>
+ </slots>
+</ui>
