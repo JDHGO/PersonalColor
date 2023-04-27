@@ -188,7 +188,7 @@ frontend
 #### My PC 임베디드 구조물
 
  
-<img src="./emb/구조물.jpg" width="400" height="250"/>
+<img src="./emb_jpg/구조물.jpg" width="400" height="250"/>
 
  - RPI4 리눅스 내의 구동을 태블릿 PC를 이용해 가시적으로 출력
  
@@ -207,7 +207,7 @@ frontend
    
    - 퍼스널 컬러 진단 키오스크임을 알림
    
-<img src="./emb/0_첫화면.jpg" width="400" height="250"/>
+<img src="./emb_jpg/0_첫화면.jpg" width="400" height="250"/>
 
 
 
@@ -215,7 +215,7 @@ frontend
  
    - 서비스 설명 화면
    
-   <img src="./emb/1_서비스설명.jpg" width="400" height="250"/>
+   <img src="./emb_jpg/1_서비스설명.jpg" width="400" height="250"/>
    
 
 
@@ -223,7 +223,7 @@ frontend
  
    - 정확한 진단과 정보 수집을 위한 성별 선택
    
-   <img src="./emb/2_성별 선택.jpg" width="400" height="250"/>
+   <img src="./emb_jpg/2_성별 선택.jpg" width="400" height="250"/>
    
    
     
@@ -238,7 +238,7 @@ frontend
    
    - 촬영된 사진은 Pytorch를 이용한 AI 모듈에 올라가게 된다.
    
-   <img src="./emb/3_카메라촬영.jpg" width="400" height="250"/>
+   <img src="./emb_jpg/3_카메라촬영.jpg" width="400" height="250"/>
       
    
     
@@ -249,7 +249,7 @@ frontend
    
    - AI 모듈이 결과 값을 낼 때까지 시간이 소요되기 때문에 그 시간 동안 출력되는 화면
    
-   <img src="./emb/4_AI진단.jpg" width="400" height="250"/>
+   <img src="./emb_jpg/4_AI진단.jpg" width="400" height="250"/>
          
    
     
@@ -263,7 +263,7 @@ frontend
    - 각 퍼스널컬러 결과에 어울리는 사업장 내 컬러 아이템이 출력된다.
    
    
-   <img src="./emb/5_진단후추천.jpg" width="400" height="250"/>
+   <img src="./emb_jpg/5_진단후추천.jpg" width="400" height="250"/>
            
    
     
@@ -273,7 +273,7 @@ frontend
    - 아이템을 선택하면 가능한 사이즈, 사이즈 표, 환불정책 등 상세내용을 볼 수 있다.
    
    
-   <img src="./emb/6_상세내용.jpg" width="400" height="250"/>
+   <img src="./emb_jpg/6_상세내용.jpg" width="400" height="250"/>
    
    
 
