@@ -207,7 +207,7 @@ frontend
    
    - 퍼스널 컬러 진단 키오스크임을 알림
    
-<img src="./emb_jpg/0_첫화면.jpg" width="400" height="250"/>
+<img src="./exec/emb_jpg/0_첫화면.jpg" width="400" height="250"/>
 
 
 
@@ -215,7 +215,7 @@ frontend
  
    - 서비스 설명 화면
    
-   <img src="./emb_jpg/1_서비스설명.jpg" width="400" height="250"/>
+   <img src="./exec/emb_jpg/1_서비스설명.jpg" width="400" height="250"/>
    
 
 
@@ -223,7 +223,7 @@ frontend
  
    - 정확한 진단과 정보 수집을 위한 성별 선택
    
-   <img src="./emb_jpg/2_성별선택.jpg" width="400" height="250"/>
+   <img src="./exec/emb_jpg/2_성별선택.jpg" width="400" height="250"/>
    
    
     
@@ -238,7 +238,7 @@ frontend
    
    - 촬영된 사진은 Pytorch를 이용한 AI 모듈에 올라가게 된다.
    
-   <img src="./emb_jpg/3_카메라촬영.jpg" width="400" height="250"/>
+   <img src="./exec/emb_jpg/3_카메라촬영.jpg" width="400" height="250"/>
       
    
     
@@ -249,7 +249,7 @@ frontend
    
    - AI 모듈이 결과 값을 낼 때까지 시간이 소요되기 때문에 그 시간 동안 출력되는 화면
    
-   <img src="./emb_jpg/4_AI진단.jpg" width="400" height="250"/>
+   <img src="./exec/emb_jpg/4_AI진단.jpg" width="400" height="250"/>
          
    
     
@@ -263,7 +263,7 @@ frontend
    - 각 퍼스널컬러 결과에 어울리는 사업장 내 컬러 아이템이 출력된다.
    
    
-   <img src="./emb_jpg/5_진단후추천.jpg" width="400" height="250"/>
+   <img src="./exec/emb_jpg/5_진단후추천.jpg" width="400" height="250"/>
            
    
     
@@ -275,7 +275,7 @@ frontend
    
    
    
-   <img src="./emb_jpg/6_상세내용.jpg" width="400" height="250"/>
+   <img src="./exec/emb_jpg/6_상세내용.jpg" width="400" height="250"/>
    
    
 
@@ -289,7 +289,7 @@ frontend
     
   - 회원가입 페이지 에서 PC진단 가능
 
-<img src="./gif/회원가입_AdobeExpress.gif" width="400" height="250"/>
+<img src="./exec/gif/회원가입_AdobeExpress.gif" width="400" height="250"/>
 
 
 - ###### 게시판
@@ -298,21 +298,21 @@ frontend
     
   - 톤 별 Best Color과 Worst Color 제공
 
-<img src="./gif/게시판_AdobeExpress.gif" width="400" height="250"/>
+<img src="./exec/gif/게시판_AdobeExpress.gif" width="400" height="250"/>
 
 
 - ###### 게시물 등록
   
   - 추천하고 싶은 아이템 등록 가능
 
-<img src="./gif/게시물_등록_AdobeExpress.gif" width="400" height="250"/>
+<img src="./exec/gif/게시물_등록_AdobeExpress.gif" width="400" height="250"/>
 
 
 - ###### 내 PC 진단
   
   - 내 PC 진단 기능
 
-<img src="./gif/PC_진단_AdobeExpress.gif" width="400" height="250"/>
+<img src="./exec/gif/PC_진단_AdobeExpress.gif" width="400" height="250"/>
 
 - ###### 화장 시뮬레이션
   
@@ -322,7 +322,7 @@ frontend
     
   - 만족시 결과 사진과 유사한 5장 불만족시 상반된 사진 5장 추천
 
-<img src="./gif/화장_시뮬레이션_AdobeExpress.gif" width="400" height="250"/>    
+<img src="./exec/gif/화장_시뮬레이션_AdobeExpress.gif" width="400" height="250"/>    
 
 - ###### 내 프로필
   
@@ -334,7 +334,7 @@ frontend
     
   - 내 팔로워수 확인
 
-<img src="./gif/내_프로필_AdobeExpress.gif" width="400" height="250"/>    
+<img src="./exec/gif/내_프로필_AdobeExpress.gif" width="400" height="250"/>    
 
 - ###### 유저 프로필
   
@@ -342,6 +342,6 @@ frontend
     
   - 유저의 게시글 확인
 
-<img src="./gif/유저_프로필_AdobeExpress.gif" width="400" height="250"/>    
+<img src="./exec/gif/유저_프로필_AdobeExpress.gif" width="400" height="250"/>    
 
 ---
