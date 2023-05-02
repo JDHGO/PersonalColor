@@ -188,7 +188,7 @@ frontend
 #### My PC 임베디드 구조물
 
  
-<img src="./emb_jpg/구조물.jpg" width="400" height="250"/>
+<img src="./exec/emb_jpg/구조물.jpg" width="400" height="250"/>
 
  - RPI4 리눅스 내의 구동을 태블릿 PC를 이용해 가시적으로 출력
  
