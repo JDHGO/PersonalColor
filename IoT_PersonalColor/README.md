@@ -51,6 +51,12 @@
 
 #### 주요 기술
 
+###### Embedded
+
+- Tensorflow
+- opencv
+- RPI4
+
 ###### Backend
 
 - node.js
